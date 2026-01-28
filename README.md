@@ -87,4 +87,4 @@ Cada herói possui:
 3. Escolha a pasta do projeto
 4. Execute a classe `Main.java`
 
-O jogo iniciará pelo menu principal, em seguida com uma tela de introdução, permitindo ao jogador interagir com heróis, missões e chamados.
+O jogo iniciará pelo menu principal, em seguida com uma tela de introdução imersiva na história,e depois vem a tela jogo permitindo ao jogador interagir com heróis, missões e chamados.
