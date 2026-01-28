@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CallOfHeroes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CallOfHeroes_jar</output-path>
+    <root id="archive" name="CallOfHeroes.jar">
+      <element id="module-output" name="CallOfHeroes" />
+    </root>
+  </artifact>
+</component>
