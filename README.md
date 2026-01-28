@@ -74,3 +74,17 @@ Cada herói possui:
 - **Swing (JFrame, JPanel, JInternalFrame, Timer)**
 - **IntelliJ IDEA**
 - **Git e GitHub**
+
+## ▶️ Como executar o jogo
+
+### Pré-requisitos
+- Java JDK 17 ou superior
+- IntelliJ IDEA (recomendado)
+
+### Executando pelo IntelliJ
+1. Clone o repositório ou faça o download do projeto
+2. Abra o IntelliJ IDEA e selecione "Open"
+3. Escolha a pasta do projeto
+4. Execute a classe `Main.java`
+
+O jogo iniciará pelo menu principal, em seguida com uma tela de introdução, permitindo ao jogador interagir com heróis, missões e chamados.
