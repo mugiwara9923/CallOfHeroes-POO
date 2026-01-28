@@ -6,6 +6,19 @@ O jogo simula a gestão de heróis que precisam responder a chamados espalhados 
 
 ---
 
+## 🎬 Menu Inicial e Introdução
+
+Ao iniciar o jogo, o jogador é apresentado a um **menu inicial**, que funciona como ponto de entrada da aplicação.
+
+- O menu contém a **tela de introdução (intro)** do jogo
+- A intro apresenta o clima e o contexto do universo do jogo
+- Música e efeitos sonoros ajudam na imersão inicial
+- A partir do menu, o jogador pode iniciar a partida
+
+Essa separação entre **menu/intro** e **jogo principal** ajuda a organizar melhor o fluxo da aplicação.
+
+---
+
 ## 🧠 Conceitos de POO Utilizados
 
 O projeto aplica diversos conceitos fundamentais de Programação Orientada a Objetos, entre eles:
@@ -61,7 +74,3 @@ Cada herói possui:
 - **Swing (JFrame, JPanel, JInternalFrame, Timer)**
 - **IntelliJ IDEA**
 - **Git e GitHub**
-
-
-   ```bash
-   git clone https://github.com/SEU_USUARIO/CallOfHeroes.git
