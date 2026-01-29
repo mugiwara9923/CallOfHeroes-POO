@@ -88,3 +88,13 @@ Cada herói possui:
 4. Execute a classe `Main.java`
 
 O jogo iniciará pelo menu principal, em seguida com uma tela de introdução imersiva na história, e depois vem a tela jogo permitindo ao jogador interagir com heróis, missões e chamados.
+
+## 🎥 Vídeo de Demonstração
+
+Neste vídeo é apresentada a execução completa do jogo, incluindo:
+- Menu inicial
+- Tela de introdução
+- Gameplay com chamados e heróis
+- Tela final de resultados
+
+Link: https://youtu.be/jccTRKc6XW4
